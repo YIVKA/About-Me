@@ -1,0 +1,19 @@
+
+p {
+    font-size: 25px;
+    background-color:rgba(5, 128, 251, 0.642);
+}
+
+
+h1,
+h2,
+h3 {
+    font-size: 40px;
+    background-color: rgb(168, 243, 248);
+}
+
+img {
+    height: 30%;
+    width: 30%;
+    border-radius: 25;
+}
